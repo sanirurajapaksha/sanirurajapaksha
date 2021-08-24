@@ -1,29 +1,47 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Saniru</h2>
+<h2 align="center"><code>hello world !</code> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Saniru</h2>
+<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
-  <a href="https://www.instagram.com/shwetang_singh/">Instagram</a> •
-  <a href="https://twitter.com/Shwetang550">Twitter</a>
+  <a target="_blank" href="mailto:sanirurajapaksha456@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a target="_blank" href="https://www.facebook.com/saniru.rajapaksha.5/">
+   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge">
+  </a>
+  <a target="_blank" href="https://www.instagram.com/_saniru_rajapaksha_/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  <a target="_blank" href="https://twitter.com/SaniruRajapaks2">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge">
+  </a>
+  <a target="_blank" href="https://open.spotify.com/user/zfm2dj0blp1rl8y4w5n2ifiy0?si=fc3ace7ade984bb9">
+   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge">
+  </a>
+  <a target="_blank" href="https://stackoverflow.com/users/14895464/saniru-rajapaksha">
+   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge">
+  </a>
 </p>
+
 
 <img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Python. 
-- 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: shwetangsingh5@gmail.com.
+- 👨🏽‍💻  I’m currently executing new ideas 😎.
+- 🌱  I’m currently learning everything that would helpful for me in future 🤗. 
+- 📫  Reach me at: sanirurajapaksha456@gmail.com 😊. 
 
-***
+<br>
 
+*** 
+ <h2 align="center">Yeah! this is me 😑<br><br><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="500px"><h2>
  <br>
-
 📈 My Github stats <br />
+  <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=sanirurajapaksha&theme=dark&show_icons=true" alt="sanirustats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirurajapaksha&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 *NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
@@ -60,9 +78,3 @@ Last Edited on: 15/01/2021
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanirurajapaksha&langs_count=8)](https://github.com/sanirurajapaksha/github-readme-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![gif](https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif)
-
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
-
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:sanirurajapaksha456@gmail.com)
