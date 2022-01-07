@@ -27,7 +27,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently executing new ideas 😎.
-- 🌱  Learning everything that would helpful for me in future 🤗. 
+- 🌱  Learning everything that would be helpful for me in future 🤗. 
 - 📫  Reach me at: sanirurajapaksha456@gmail.com 😊. 
 
 <br>
