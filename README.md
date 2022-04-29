@@ -1,5 +1,19 @@
-<h2 align="center"><code>hello world !</code> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Saniru</h2>
- <br>
+Hi 👋 My name is Saniru Rajapaksha
+==================================
+
+Self - Taught Software Developer
+--------------------------------
+Been coding for almost 1.5 years now. Fluent in MERN stack ⚡. Experience with the tool mentioned below.
+
+<img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+* 🌍  I'm based in Sri Lanka
+* ✉️  You can contact me at [sanirurajapaksha456@gmail.com](mailto:sanirurajapaksha456@gmail.com)
+* 🧠  I'm learning about SaaS building
+* 🤝  I'm open to collaborating on MERN stack projects
+* ⚡  Still don't have a college degree 🤫 All learnt from YouTube and Google
+
+<br>
 <p align="center">
   <a target="_blank" href="mailto:sanirurajapaksha456@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
@@ -21,32 +35,36 @@
   </a>
 </p>
 
-
-<img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻  I’m currently executing new ideas 😎.
-- 🌱  Learning everything that would be helpful for me in future 🤗. 
-- 📫  Reach me at: sanirurajapaksha456@gmail.com 😊. 
-
-<br>
-<br>
+<p align="center">
+ <a href="https://www.twitter.com/snru_vevo" target="_blank" rel="noreferrer"><img
+ src="https://img.shields.io/twitter/follow/snru_vevo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+ /></a><a href="https://www.github.com/sanirurajapaksha" target="_blank" rel="noreferrer"><img
+ src="https://img.shields.io/github/followers/sanirurajapaksha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</p>
 
 <h2 align="center">Yeah! this is me 😑</h2>
 <br>
 <br>
 <p align="center"><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="500px"></p>
 <br>
+
+
 <h2>📈 My Github stats</h2>
- <br>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanirurajapaksha&theme=dark&show_icons=true" alt="sanirustats" />
-  <br>
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirurajapaksha&layout=compact&theme=dark" alt="top-langs" />
- </p>
+<br>
+
+<p align="left">
+ <a href="http://www.github.com/sanirurajapaksha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanirurajapaksha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="http://www.github.com/sanirurajapaksha" align="right"><img src="https://github-readme-stats.vercel.app/api?username=sanirurajapaksha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sanirurajapaksha's GitHub stats" /></a>
+</p>
+
+
+<a href="http://www.github.com/sanirurajapaksha" align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sanirurajapaksha&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<p align="center">
+ <a href="https://github.com/sanirurajapaksha" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirurajapaksha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
+</p>
 
 <h5><i>*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github readme stats*</i></h5>
 
@@ -86,7 +104,12 @@
 <h2>Jokes aside 🤐</h2>
  <br>
  <p align="center"><img align="center" src="https://readme-jokes.vercel.app/api" />
+ <br>
+ <br>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/snru"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ---
 
-Last Edited on: 25/08/2021
+Last Edited on: 04/29/2022
