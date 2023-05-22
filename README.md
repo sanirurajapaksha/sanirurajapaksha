@@ -4,7 +4,6 @@ Hi 👋 My name is Saniru Rajapaksha
 
 Self - Taught Software Developer
 --------------------------------
-Been coding for almost 1.5 years now. Fluent in MERN stack ⚡. Has experience with the tool mentioned below.
 
 <img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
