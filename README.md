@@ -8,10 +8,10 @@ Self - Taught Software Developer
 <img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 * 🌍  I'm based in Sri Lanka
+* ⚡  Software Engineering Undergrad at [Sri Lanka Institute of Information Technology](sliit.lk)
 * ✉️  You can contact me at [sanirurajapaksha456@gmail.com](mailto:sanirurajapaksha456@gmail.com)
 * 🧠  I'm learning about SaaS building
 * 🤝  I'm open to collaborating on MERN stack projects
-* ⚡  Still don't have a college degree 🤫 All learnt from YouTube and Google
 
 <br>
 <p align="center">
