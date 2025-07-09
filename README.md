@@ -47,18 +47,11 @@
 </p>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=sanirurajapaksha&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
- <a href="https://github.com/sanirurajapaksha" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirurajapaksha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
-<h5><i>*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of GitHub readme stats*</i></h5>
-
 <br>
 
 <h2 align="center">Stack</h2>
 <br>
-<p align="center"> 
+<p align="center">
   <img height="35rem" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img height="35rem" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img height="35rem" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -75,7 +68,6 @@
   <img height="35rem" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img height="35rem" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img height="35rem" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img height="35rem" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <br>
