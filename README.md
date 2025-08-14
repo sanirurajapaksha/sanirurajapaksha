@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saniru Rajapaksha</h1>
-<h3 align="center">Software Engineering Undergrad • Self-Taught Developer</h3>
+<h3 align="center">Software Engineering Undergrad • Self-Taught SaaS Developer</h3>
 
 <p align="center">
   🌍 Sri Lanka • 📧 <a href="mailto:sanirurajapaksha456@gmail.com">sanirurajapaksha456@gmail.com</a><br>
-  🧠 Learning SaaS building • 🤝 Open to MERN collaborations
+  🧠 Building SaaS Products • 🤝 Open to collaborations
 </p>
 
 
