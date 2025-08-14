@@ -14,13 +14,13 @@
   <a target="_blank" href="mailto:sanirurajapaksha456@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a target="_blank" href="https://www.facebook.com/saniru.rajapaksha.5/">
+  <a target="_blank" href="https://www.facebook.com/sanirurajapaksha.69/">
    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge">
   </a>
-  <a target="_blank" href="https://www.instagram.com/_saniru_rajapaksha_/">
+  <a target="_blank" href="https://www.instagram.com/snru_vevo/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a target="_blank" href="https://twitter.com/SaniruRajapaks2">
+  <a target="_blank" href="https://twitter.com/snru_vevo">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge">
   </a>
   <a target="_blank" href="https://open.spotify.com/user/zfm2dj0blp1rl8y4w5n2ifiy0?si=fc3ace7ade984bb9">
