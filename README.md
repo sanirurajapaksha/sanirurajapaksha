@@ -9,27 +9,6 @@
 * 🧠  I'm learning about SaaS building
 * 🤝  I'm open to collaborating on MERN stack projects
 
-<br>
-<p align="center">
-  <a target="_blank" href="mailto:sanirurajapaksha456@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-  <a target="_blank" href="https://www.facebook.com/sanirurajapaksha.69/">
-   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge">
-  </a>
-  <a target="_blank" href="https://www.instagram.com/snru_vevo/">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>
-  <a target="_blank" href="https://twitter.com/snru_vevo">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge">
-  </a>
-  <a target="_blank" href="https://open.spotify.com/user/zfm2dj0blp1rl8y4w5n2ifiy0?si=fc3ace7ade984bb9">
-   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge">
-  </a>
-  <a target="_blank" href="https://stackoverflow.com/users/14895464/saniru-rajapaksha">
-   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge">
-  </a>
-</p>
 
 <br>
 <h2 align="center">Analytics</h2>
