@@ -68,7 +68,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/sanirurajapaksha/Final-Year-Research-Project">AI SRE Agent</a></h3>
+      <h3>🤖 <a href="https://github.com/sanirurajapaksha/Final-Year-Research-Project">Argus - AI SRE Agent</a></h3>
       <sub><b>Final-year research project</b></sub>
       <p>Multi-benchmark investigation and development of an enhanced AI agent for Site Reliability Engineering.</p>
       <code>Research</code> <code>AI Agents</code> <code>SRE</code>
